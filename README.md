@@ -1,5 +1,5 @@
 # 🤖 Velodrome and Aerodrome Discord Bots
-
+huygens = for educational purpose
 ## Table of Contents
 
 - [Meet the Bots](#meet-the-bots)
